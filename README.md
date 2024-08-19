@@ -1,4 +1,4 @@
-# Este repositório é a atividade final do curso de Desenvolvimento Web Fullstack na [Growdev](https://www.growdev.com.br/programs/full-stack).
+# Este repositório é a atividade final do Módulo Front End I do curso de Desenvolvimento Web Fullstack na [Growdev](https://www.growdev.com.br/programs/full-stack).
 
 <hr>
 
