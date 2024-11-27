@@ -9,7 +9,7 @@
 
 <hr>
 
-![](https://github.com/lucassilvaq7/atv-final-front-end-I/blob/main/assets/images/index-image.jpg)
+![](assets/images/index-image.png)
 
 <hr>
 
